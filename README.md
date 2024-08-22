@@ -1,10 +1,8 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🌙
 
-<!--
-**rakeli1789/rakeli1789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvendo scrath e javascrat,além do alura
 
-Here are some ideas to get you started:
-
+![](https://media1.tenor.com/m/2ReUQeXk9psAAAAC/naruto.g)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
